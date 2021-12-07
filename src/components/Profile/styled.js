@@ -35,7 +35,7 @@ export const WrapperGeneric = styled.div `
     }
 
     a {
-        color: #118AB2;
+        color: #4E89AE;
         font-size: 1.125rem;
         font-weight: bold;
     }

@@ -21,10 +21,12 @@ export const Wrapper = styled.div `
 
         padding: 1rem;
 
+        color: #231E23;
+
     }
 
     button {
-        background-color: #5981B1;
+        background-color: #365475;
         color: #FEFEFE;
         padding: .9rem;
         margin: 0 1rem;
@@ -34,7 +36,7 @@ export const Wrapper = styled.div `
     }
 
     button:hover {
-        background-color: #365475;
+        background-color: #142F43;
     }
     
 `

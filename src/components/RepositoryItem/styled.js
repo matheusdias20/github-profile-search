@@ -8,7 +8,7 @@ export const Wrapper = styled.div `
     margin: 1rem;
     padding: 2rem;
 
-    width: 350px;
+    width: 355px;
     height: 170px;
 `
 
@@ -17,7 +17,7 @@ export const WrapperTitle = styled.h2 `
     font-weight: 500;
     margin-bottom: 1rem;
 
-    color: #FFB703;
+    color: #FB9300;
 `
 
 export const WrapperFullName = styled.h4 `
@@ -25,7 +25,7 @@ export const WrapperFullName = styled.h4 `
     font-weight: 500;
     margin-bottom: 1rem;
 
-    color: #FEFEFE;
+    color: #231E23;
 `
 
 export const WrapperLink = styled.a `

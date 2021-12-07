@@ -24,6 +24,8 @@ export const WrapperTab = styled(Tab)`
     padding: 0.7rem 1.5rem;
     margin: 0.5rem;
 
+    font-weight: 500;
+
     &:focus {
         outline: none;
     }
@@ -31,6 +33,7 @@ export const WrapperTab = styled(Tab)`
     &.is-selected {
          box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
     }
+
 
 `;
 
@@ -48,6 +51,6 @@ export const WrapperTabPanel = styled(TabPanel)`
 
 export const WrapperList = styled.div `
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-wrap: wrap;
 `

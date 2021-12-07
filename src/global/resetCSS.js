@@ -39,8 +39,8 @@ export const ResetCSS = createGlobalStyle `
     body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #142F43;
-    color: #FEFEFE;
+    background-color: #EEEEEE;
+    color: #231E23;
     }
 
     /**

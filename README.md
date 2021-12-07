@@ -1,6 +1,10 @@
 <h1 align="center">🔍 Github Profile Search</h1>
 <p align="center">
-  <strong>Site de produtos de entrega</strong>
+  <strong>Aplicação que mostra os repositórios e informações dos usuários do github</strong>
+</p>
+
+<p align="center">
+  <img src="public/assets/github-profile.png" alt="">
 </p>
 
 
@@ -14,4 +18,9 @@
 - Axios
 - React-Tabs
 - Styled-Components
+
+## API's: 📊
+
+- [API Github](https://docs.github.com/pt/rest/reference/users)
+
 

@@ -51,6 +51,6 @@ export const WrapperTabPanel = styled(TabPanel)`
 
 export const WrapperList = styled.div `
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-around;
     flex-wrap: wrap;
 `

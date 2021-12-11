@@ -143,7 +143,7 @@ export const ResetCSS = createGlobalStyle `
     a {
     background-color: transparent;
     text-decoration: none;
-    color: #118AB2;
+    color: #4E89AE;
     }
 
     /**
